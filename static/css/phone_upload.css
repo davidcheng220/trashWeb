@@ -1,0 +1,670 @@
+.pic-result,
+.pic-result * {
+  box-sizing: border-box;
+}
+.pic-result {
+  background: #ffffff;
+  height: 700px;
+  position: relative;
+  overflow: hidden;
+}
+.background {
+  width: 1280px;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+  filter: blur(2px);
+  object-fit: cover;
+}
+.rectangle-18 {
+  background: #d9d9d9;
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  left: 0px;
+  top: 100px;
+}
+.vector {
+  width: 15.31%;
+  height: 24.46%;
+  position: absolute;
+  right: 42.34%;
+  left: 42.34%;
+  bottom: 37.76%;
+  top: 37.78%;
+  overflow: visible;
+}
+.div {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-19 {
+  background: rgba(0, 0, 0, 0.5);
+  width: 10.62%;
+  height: 6.25%;
+  position: absolute;
+  right: 44.69%;
+  left: 44.69%;
+  bottom: 13.18%;
+  top: 80.57%;
+  border: none;
+  outline : none;
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 46.88%;
+  left: 47.58%;
+  width: 5.55%;
+  bottom: 14.98%;
+  top: 82.52%;
+  height: 2.5%;
+}
+.rectangle-192 {
+  background: rgba(0, 0, 0, 0.5);
+  width: 10.62%;
+  height: 6.25%;
+  position: absolute;
+  right: 44.69%;
+  left: 44.69%;
+  bottom: 17.18%;
+  top: 76.57%;
+  
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 46.88%;
+  left: 47.58%;
+  width: 5.55%;
+  bottom: 19.04%;
+  top: 78.46%;
+  height: 2.5%;
+}
+.header {
+  width: 1280px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: hidden;
+}
+.header2 {
+  background: #ffffff;
+  width: 1280px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.logo {
+  position: absolute;
+  inset: 0;
+}
+.logo2 {
+  background: rgba(158, 129, 129, 0);
+  width: 326px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div4 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 96px;
+  top: 22px;
+  width: 135px;
+}
+.leaf-solid-1 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 25px;
+  top: 16px;
+  overflow: visible;
+}
+.logo3 {
+  background: rgba(158, 129, 129, 0.5);
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  left: 1071px;
+  top: 13px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1116px;
+  top: 29px;
+  width: 60px;
+}
+.div6 {
+  background: rgba(158, 129, 129, 0.5);
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  left: 871px;
+  top: 15px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 907px;
+  top: 31px;
+  width: 79px;
+}
+.a_black{
+  color: #000000;
+  text-decoration: none;
+}
+.rectangle-193 {
+  background: rgba(0, 0, 0, 0.5);
+  width: 10.62%;
+  height: 6.25%;
+  position: absolute;
+  right: 44.69%;
+  left: 44.69%;
+  bottom: 27.46%;
+  top: 66.29%;
+}
+.div8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 46.88%;
+  left: 47.58%;
+  width: 5.55%;
+  bottom: 29.32%;
+  top: 68.18%;
+  height: 2.5%;
+}
+.photo_button{
+  background-color:  rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+}
+@media (max-width: 480px) {
+  .analyze-usage-desktop-6,
+  .analyze-usage-desktop-6 * {
+    box-sizing: border-box;
+  }
+  .analyze-usage-desktop-6 {
+    background: #ffffff;
+    width: 320px;
+    height: 568px;
+    position: relative;
+    overflow: hidden;
+  }
+  .background {
+    width: 320px;
+    height: 388px;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    filter: blur(2px);
+    object-fit: cover;
+  }
+  .rectangle-18 {
+    background: #d9d9d9;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+  }
+  .vector {
+    width: 61.25%;
+    height: 30.15%;
+    position: absolute;
+    right: 19.38%;
+    left: 19.38%;
+    bottom: 48.2%;
+    top: 21.65%;
+    overflow: visible;
+  }
+  .div {
+    position: absolute;
+    inset: 0;
+  }
+  .rectangle-19 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 42.5%;
+    height: 7.7%;
+    position: absolute;
+    right: 28.75%;
+    left: 28.75%;
+    bottom: 17.3%;
+    top: 75%;
+    border: none;
+    outline : none;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .div2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 37.5%;
+    left: 40.31%;
+    width: 22.19%;
+    bottom: 19.52%;
+    top: 77.4%;
+    height: 3.08%;
+  }
+  .rectangle-192 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 42.5%;
+    height: 7.7%;
+    position: absolute;
+    right: 28.75%;
+    left: 28.75%;
+    bottom: 24.16%;
+    top: 68.13%;
+  }
+  .div3 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 37.5%;
+    left: 40.31%;
+    width: 22.19%;
+    bottom: 26.45%;
+    top: 70.47%;
+    height: 3.08%;
+  }
+  .header {
+    width: 310px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+  }
+  .header2 {
+    background: #ffffff;
+    width: 320px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .logo {
+    position: absolute;
+    inset: 0;
+  }
+  .logo2 {
+    background: rgba(158, 129, 129, 0);
+    width: 155px;
+    height: 54px;
+    position: absolute;
+    left: 0px;
+    top: 13px;
+  }
+  .div4 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    position: absolute;
+    left: 20px;
+    top: 27px;
+    width: 140px;
+    height: 37px;
+  }
+  .leaf-solid-1 {
+    width: 20px;
+    height: 21px;
+    position: absolute;
+    left: 25px;
+    top: 29px;
+    overflow: visible;
+  }
+  .logo3 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 71px;
+    height: 22px;
+    position: absolute;
+    left: 231px;
+    top: 28px;
+  }
+  .div5 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    position: absolute;
+    left: 249px;
+    top: 35px;
+    width: 34px;
+    height: 9px;
+  }
+  .div6 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 71px;
+    height: 22px;
+    position: absolute;
+    left: 151px;
+    top: 28px;
+  }
+  .div7 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 8px;
+    font-weight: 400;
+    position: absolute;
+    left: 166px;
+    top: 35px;
+    width: 60.71px;
+    height: 8.72px;
+  }
+
+  .a_black{
+    color: #000000;
+    text-decoration: none;
+  }
+  .rectangle-193 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 42.5%;
+    height: 7.7%;
+    position: absolute;
+    right: 28.75%;
+    left: 28.75%;
+    bottom: 36.14%;
+    top: 56.16%;
+  }
+  .div8 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 37.5%;
+    left: 40.31%;
+    width: 22.19%;
+    bottom: 38.42%;
+    top: 58.49%;
+    height: 3.08%;
+  }
+  .photo_button{
+    background-color:  rgba(0, 0, 0, 0.5);
+    width: 42.5%;
+    border: none;
+    color: white;
+  }
+}
+
+@media (min-width: 1920px) {
+  .pic-result,
+  .pic-result * {
+    box-sizing: border-box;
+  }
+  .pic-result {
+    background: #ffffff;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-18 {
+    background: #d9d9d9;
+    width: 1280px;
+    height: 600px;
+    position: absolute;
+    left: 320px;
+    top: 98px;
+  }
+  .abc-jpg {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 933px;
+    top: 511px;
+  }
+  .vector {
+    width: 10.21%;
+    height: 15.86%;
+    position: absolute;
+    right: 44.9%;
+    left: 44.9%;
+    bottom: 59.84%;
+    top: 20.3%;
+    overflow: visible;
+  }
+  .group-7 {
+    position: absolute;
+    inset: 0;
+  }
+  .rectangle-19 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 10.62%;
+    height: 6.25%;
+    position: absolute;
+    right: 44.69%;
+    left: 44.69%;
+    bottom: 38.75%;
+    top: 55%;
+  }
+  .div {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 47.92%;
+    left: 48.39%;
+    width: 3.7%;
+    bottom: 54.4%;
+    top: 43.98%;
+    height: 1.62%;
+  }
+  .group-8 {
+    position: absolute;
+    inset: 0;
+  }
+  .rectangle-192 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 10.62%;
+    height: 6.25%;
+    position: absolute;
+    right: 44.69%;
+    left: 44.69%;
+    bottom: 47.32%;
+    top: 46.43%;
+  }
+  .div2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 47.92%;
+    left: 48.39%;
+    width: 3.7%;
+    bottom: 47.67%;
+    top: 50.7%;
+    height: 1.62%;
+  }
+  .header {
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 320px;
+    top: 0px;
+    overflow: hidden;
+  }
+  .header2 {
+    background: #ffffff;
+    width: 1280px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .logo {
+    position: absolute;
+    inset: 0;
+  }
+  .logo2 {
+    background: rgba(158, 129, 129, 0);
+    width: 326px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .div3 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 46.17%;
+    left: 48.28%;
+    width: 5.55%;
+    bottom: 48.7%;
+    top: 48.8%;
+    height: 2.5%;
+  }
+  .leaf-solid-1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 25px;
+    top: 16px;
+    overflow: visible;
+  }
+  .div4 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    left: 96px;
+    top: 22px;
+    width: 135px;
+  }
+  .logo3 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 1071px;
+    top: 13px;
+  }
+  .div5 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 1116px;
+    top: 29px;
+    width: 60px;
+  }
+  .div6 {
+    background: rgba(158, 129, 129, 0.5);
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 871px;
+    top: 15px;
+  }
+  .div7 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    left: 907px;
+    top: 31px;
+    width: 79px;
+  }
+
+
+
+  .a_black{
+    color: #000000;
+    text-decoration: none;
+  }
+  .rectangle-193 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 10.62%;
+    height: 6.25%;
+    position: absolute;
+    right: 44.69%;
+    left: 44.69%;
+    bottom: 55.32%;
+    top: 38.43%;
+  }
+  .div8 {
+    color: #ffffff;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    position: absolute;
+    right: 46.17%;
+    left: 48.28%;
+    width: 5.55%;
+    bottom: 56.67%;
+    top: 40.83%;
+    height: 2.5%;
+  }
+  .photo_button{
+    background-color:  rgba(0, 0, 0, 0.5);
+    width: 42.5%;
+    border: none;
+    color: white;
+  }
+}
